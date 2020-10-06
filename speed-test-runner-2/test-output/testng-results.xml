@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-10-06T10:00:32Z" name="Default suite" finished-at="2020-10-06T10:01:55Z" duration-ms="82364">
+    <groups>
+    </groups>
+    <test started-at="2020-10-06T10:00:32Z" name="Default test" finished-at="2020-10-06T10:01:55Z" duration-ms="82364">
+      <class name="net.speedtest.SpeedTest">
+        <test-method signature="speedTest()[pri:0, instance:net.speedtest.SpeedTest@5b6ec132]" started-at="2020-10-06T10:00:32Z" name="speedTest" finished-at="2020-10-06T10:01:55Z" duration-ms="82344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- speedTest -->
+      </class> <!-- net.speedtest.SpeedTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
